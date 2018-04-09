@@ -7,6 +7,8 @@ The New York Citi Bike program provides a full history of trip data going back t
 
 Citi Bike provides CSV data by month and year. I downloaded all 36 CSV files and merged/mugged the data in iPython Notebooks. Minor issues with labeling and formating were also resolved within the notebooks. Please find these files in the data cleaning folder and use them in number order once you have downloaded the CSVs.
 
-All analysis and data manipulation has been done using Tableau for demonstration purposes.
-
 https://www.citibikenyc.com/system-data
+
+All analysis and data manipulation has been done using Tableau for demonstration purposes. Below is the link to my Google drive stored packaged Tableau workbook for you to take a look at.
+
+https://drive.google.com/open?id=1wDpCT-zwFEalHkorCNiAtLFpGHQqU4DZ
